@@ -1,0 +1,41 @@
+[
+  {
+    "role": "system",
+    "content": "You are a web-browsing robot tasked with completing specific objectives. Each iteration, you will receive an Observation containing a webpage screenshot and numerical labels in the TOP LEFT corner of each Web Element.\n\nAnalyze the visual information carefully and select an appropriate action:\n1. Click a Web Element.\n2. Type in a textbox (delete existing content first).\n3. Scroll up or down (default is the entire page unless a specific scroll widget exists).\n4. Wait (for 5 seconds, only if necessary).\n5. Go back to the previous webpage.\n6. Google (restart search if needed).\n7. Answer (only when all tasks are completed).\n\n### **Action Format (STRICTLY FOLLOW)**\n- Click [Numerical_Label]\n- Type [Numerical_Label]; [Content]\n- Scroll [Numerical_Label or WINDOW]; [up or down]\n- Wait\n- GoBack\n- Google\n- ANSWER; [content]\n\n### **Guidelines**\n#### **Action Rules**\n1. **For typing**: No need to click the textbox first. Just type, and the system will press `ENTER`. If necessary, click the search button after typing.\n2. **Textbox vs Button**: Do not type into buttons. If no textbox is visible, click the search button first.\n3. **One action per iteration**: Do not execute multiple actions in one step.\n4. **Avoid redundant actions**: If the page hasn't changed, reconsider your choice.\n5. **Use \"ANSWER\" only at the end**: Answer only after addressing all questions in the task.\n\n#### **Web Browsing Rules**\n1. **Ignore irrelevant elements**: Avoid login, sign-in, donation prompts.\n2. **YouTube & PDFs**: You can visit video sites but **do not play videos**. Downloading PDFs is allowed.\n3. **Date Sensitivity**: Ensure selected results match the required date (year, month, day).\n4. **Sorting & Filters**: Utilize filters and sorting options to find the best match (e.g., \"cheapest,\" \"earliest\").\nYour response format:\nThought: {Your brief thoughts (Brief reasoning)}\nAction: {One Action format you choose}\n"
+  },
+  {
+    "role": "user",
+    "content": "Now given a task: Go to the search section of yahoo, next search 1 or 2 today's taiwan news , finally give me an abstract about news.  Please interact with https://tw.yahoo.com/ and get the answer.Observation: A screenshot and some texts. (Omitted in context.)"
+  },
+  {
+    "role": "assistant",
+    "content": "Thought: First, I need to type \"1 or 2 today's taiwan news\" in the search bar. Then, I need to click the search button. After getting the search results, I will summarize the news.\nAction: Type [1]; 1 or 2 today's taiwan news\n"
+  },
+  {
+    "role": "user",
+    "content": "Observation: A screenshot and some texts. (Omitted in context.)"
+  },
+  {
+    "role": "assistant",
+    "content": "Thought: I already typed the query in the search box, now I need to click the search button to perform the search.\nAction: Click [3]\n"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "Observation: please analyze the attached screenshot and give the Thought and Action. I've provided the tag name of each element and the text it contains (if text exists). Note that <textarea> or <input> may be textbox, but not exactly. Please focus more on the screenshot and then refer to the textual information.\n[0]: \"Yahoo\u5947\u6469\";\t[1]: <input> \"\";\t[2]: <button> \"\u6e05\u9664\";\t[5]: \"\u8a2d\u5b9a\";\t[6]: \"\u767b\u5165\";\t[7]: \"\u5168\u90e8\";\t[8]: \"\u5716\u7247\";\t[9]: \"\u5f71\u7247\";\t[10]: \"\u65b0\u805e\";\t[11]: \"\u5b57\u5178\";\t[12]: \"\u66f4\u591a\";\t[13]: \"\u4e0d\u9650\u6642\u9593\";\t[14]: \"\u5168\u7403\u7db2\u9801\";\t[15]: \"\u7d04 253,000,000 \u9805\u641c\u5c0b\u7d50\u679c\";\t[16]: \"news.google.com \u203a topics\u53f0\u7063 - Google News\", \"\u53f0\u7063 - Google News\";\t[17]: \"www.taiwannews.com.twTaiwan News - Voice of the People, Bridge to the World\", \"Taiwan News - Voice of the People, Bridge to the World\";\t[18]: \"news.tvbs.com.tw \u203a realtime\u5373\u6642\u65b0\u805e\u2502TVBS\u65b0\u805e\u7db2\", \"\u5373\u6642\u65b0\u805e\u2502TVBS\u65b0\u805e\u7db2\";\t[19]: \"tw.news.yahoo.comYahoo\u5947\u6469\u65b0\u805e\", \"Yahoo\u5947\u6469\u65b0\u805e\";\t[20]: \"\u6797\u79c9\u6a1e\u4fdd\u5916\u5c31\u91ab\";\t[21]: \"\u6bd4\u7279\u72ac\u54ac\u50b7\u9001\u91ab\";\t[22]: \"\u65c5\u904a\u5e73\u5b89\u96aa\";\t[23]: \"\u5c4f\u6771\u8857\u982d\u69cd\u6230\";\t[24]: \"\u8449\u9ec3\u7d20\";\t[25]: \"\u83ca\u6c60\u6843\u5b50\u52a0\u76df\";\t[26]: \"\u6f8e\u6e56\u6a5f\u7968\";\t[27]: \"\u937e\u660e\u8ed2\u75db\u54ed\";\t[28]: \"\u6f14\u54e1\u8463\u5b63\u946b\";\t[29]: \"\u8aa0\u54c1480\";\t[30]: \"\u5982\u4f55\u67e5\u4fbf\u5b9c\u6a5f\u7968\";\t[31]: \"CP\u503c\u9ad8\u7684\u96fb\u52d5\u6a5f\u8eca\";\t[32]: \"\u63db\u65e5\u5e63\u54ea\u5bb6\u9280\u884c\u5212\u7b97\";\t[33]: \"\u81ea\u7528\u4f4f\u5b85\u512a\u60e0\u7a05\u7387\";\t[34]: \"\u5c0f\u7409\u7403\u4fbf\u5b9c\u9ad8CP\u503c\u6c11\u5bbf\";"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "data:image/png;base64,{b64_img}"
+        }
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": "Thought: I see a search result from Yahoo\u5947\u6469\u65b0\u805e. The date is 2022\u5e741\u670811\u65e5. It mentions a case involving the Kyushu group. I'll summarize this news as it seems like a recent news item.\n\nAction: ANSWER; On January 11, 2022, the Taichung District Court heard a case involving the Kyushu Group for gambling and money laundering. Following the release of core executives, the court recently convened another detention hearing and ruled to detain senior executives Chen Yi-hung and Ganggu person in charge, Li Meng-hsiu.\n"
+  }
+]

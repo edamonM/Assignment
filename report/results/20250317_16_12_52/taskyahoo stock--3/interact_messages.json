@@ -1,0 +1,57 @@
+[
+  {
+    "role": "system",
+    "content": "Imagine you are a robot browsing the web, just like humans. Now you need to complete a task. In each iteration, you will receive an Observation that includes a screenshot of a webpage and some texts. This screenshot will feature Numerical Labels placed in the TOP LEFT corner of each Web Element.\nCarefully analyze the visual information to identify the Numerical Label corresponding to the Web Element that requires interaction, then follow the guidelines and choose one of the following actions:\n1. Click a Web Element.\n2. Delete existing content in a textbox and then type content. \n3. Scroll up or down. Multiple scrolls are allowed to browse the webpage. Pay attention!! The default scroll is the whole window. If the scroll widget is located in a certain area of the webpage, then you have to specify a Web Element in that area. I would hover the mouse there and then scroll.\n4. Wait. Typically used to wait for unfinished webpage processes, with a duration of 5 seconds.\n5. Go back, returning to the previous webpage.\n6. Google, directly jump to the Google search page. When you can't find information in some websites, try starting over with Google.\n7. Answer. This action should only be chosen when all questions in the task have been solved.\n\nCorrespondingly, Action should STRICTLY follow the format:\n- Click [Numerical_Label]\n- Type [Numerical_Label]; [Content]\n- Scroll [Numerical_Label or WINDOW]; [up or down]\n- Wait\n- GoBack\n- Google\n- ANSWER; [content]\n\nKey Guidelines You MUST follow:\n* Action guidelines *\n1) To input text, NO need to click textbox first, directly type content. After typing, the system automatically hits `ENTER` key. Sometimes you should click the search button to apply search filters. Try to use simple language when searching.  \n2) You must Distinguish between textbox and search button, don't type content into the button! If no textbox is found, you may need to click the search button first before the textbox is displayed. \n3) Execute only one action per iteration. \n4) STRICTLY Avoid repeating the same action if the webpage remains unchanged. You may have selected the wrong web element or numerical label. Continuous use of the Wait is also NOT allowed.\n5) When a complex Task involves multiple questions or steps, select \"ANSWER\" only at the very end, after addressing all of these questions (steps). Flexibly combine your own abilities with the information in the web page. Double check the formatting requirements in the task when ANSWER. \n* Web Browsing Guidelines *\n1) Don't interact with useless web elements like Login, Sign-in, donation that appear in Webpages. Pay attention to Key Web Elements like search textbox and menu.\n2) Vsit video websites like YouTube is allowed BUT you can't play videos. Clicking to download PDF is allowed and will be analyzed by the Assistant API.\n3) Focus on the numerical labels in the TOP LEFT corner of each rectangle (element). Ensure you don't mix them up with other numbers (e.g. Calendar) on the page.\n4) Focus on the date in task, you must look for results that match the date. It may be necessary to find the correct year, month and day at calendar.\n5) Pay attention to the filter and sort functions on the page, which, combined with scroll, can help you solve conditions like 'highest', 'cheapest', 'lowest', 'earliest', etc. Try your best to find the answer that best fits the task.\n\nYour reply should strictly follow the format:\nThought: {Your brief thoughts (briefly summarize the info that will help ANSWER)}\nAction: {One Action format you choose}\n\nThen the User will provide:\nObservation: {A labeled screenshot Given by User}"
+  },
+  {
+    "role": "user",
+    "content": "Now given a task: Go to the search section of yahoo, give me tsmc now stock price.  Please interact with https://tw.yahoo.com/ and get the answer.Observation: A screenshot and some texts. (Omitted in context.)"
+  },
+  {
+    "role": "assistant",
+    "content": "Thought: The task is to find the current stock price of TSMC using the Yahoo search engine. I should type \"tsmc now stock price\" into the search bar (1) and click the search button (3).\nAction: Type [1]; tsmc now stock price\n"
+  },
+  {
+    "role": "user",
+    "content": "Observation: A screenshot and some texts. (Omitted in context.)"
+  },
+  {
+    "role": "assistant",
+    "content": "Thought: I have already entered the search query in the previous step. Now I need to click the search button to see the results. The search button is labeled as [3].\nAction: Click [3]\n"
+  },
+  {
+    "role": "user",
+    "content": "Observation: A screenshot and some texts. (Omitted in context.)"
+  },
+  {
+    "role": "assistant",
+    "content": "Thought: The search results page is displayed. The first result [16] looks promising, leading to Yahoo Finance and containing information about TSMC (TSM). I should click on that link.\nAction: Click [16]\n"
+  },
+  {
+    "role": "user",
+    "content": "Observation: A screenshot and some texts. (Omitted in context.)"
+  },
+  {
+    "role": "assistant",
+    "content": "Thought: I have already clicked on the search result that links to Yahoo Finance (labeled [16] in the previous observation). I expect the current page to display the stock price of TSMC. I need to examine the current page to find the real-time stock price. Since the screenshot is not showing the stock price, I will wait.\nAction: Wait\n"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "Observation: please analyze the attached screenshot and give the Thought and Action. I've provided the tag name of each element and the text it contains (if text exists). Note that <textarea> or <input> may be textbox, but not exactly. Please focus more on the screenshot and then refer to the textual information.\n[0]: \"Yahoo\u5947\u6469\";\t[1]: <input> \"\";\t[2]: <button> \"\u6e05\u9664\";\t[5]: \"\u8a2d\u5b9a\";\t[6]: \"\u767b\u5165\";\t[7]: \"\u5168\u90e8\";\t[8]: \"\u5716\u7247\";\t[9]: \"\u5f71\u7247\";\t[10]: \"\u65b0\u805e\";\t[11]: \"\u5b57\u5178\";\t[12]: \"\u66f4\u591a\";\t[13]: \"\u4e0d\u9650\u6642\u9593\";\t[14]: \"\u5168\u7403\u7db2\u9801\";\t[15]: \"\u7d04 3,330,000 \u9805\u641c\u5c0b\u7d50\u679c\";\t[16]: \"finance.yahoo.com \u203a quote \u203a TSMTaiwan Semiconductor Manufacturing Company Limited (TSM) ...\", \"Taiwan Semiconductor Manufacturing Company Limited (TSM) Stock Price, News, Quote & History - Yahoo Finance\";\t[17]: \"Historical Data\";\t[18]: \"NVDA\";\t[19]: \"AMD\";\t[20]: \"Statistics\";\t[21]: \"SOX\";\t[22]: \"PLTR\";\t[23]: \"MU\";\t[24]: \"Financials\";\t[25]: \"\u91d1\u79c0\u8ce2 \u91d1\u8cfd\u7db8\";\t[26]: \"\u6bd4\u7279\u72ac\u54ac\u50b7\u9001\u91ab\";\t[27]: \"\u65e5\u672c\u6a5f\u7968\";\t[28]: \"\u5c4f\u6771\u8857\u982d\u69cd\u6230\";\t[29]: \"\u8ca8\u6ac3\u5c4b\";\t[30]: \"\u83ca\u6c60\u6843\u5b50\u52a0\u76df\";\t[31]: \"\u8a02\u6a5f\u7968\";\t[32]: \"\u937e\u660e\u8ed2\u75db\u54ed\";\t[33]: \"\u53f0\u7a4d\u96fb\";\t[34]: \"\u8aa0\u54c1480\";\t[35]: \"\u5982\u4f55\u67e5\u4fbf\u5b9c\u6a5f\u7968\";\t[36]: \"CP\u503c\u9ad8\u7684\u96fb\u52d5\u6a5f\u8eca\";\t[37]: \"\u63db\u65e5\u5e63\u54ea\u5bb6\u9280\u884c\u5212\u7b97\";\t[38]: \"\u81ea\u7528\u4f4f\u5b85\u512a\u60e0\u7a05\u7387\";\t[39]: \"\u5c0f\u7409\u7403\u4fbf\u5b9c\u9ad8CP\u503c\u6c11\u5bbf\";"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "data:image/png;base64,{b64_img}"
+        }
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": "Thought: I have clicked on the Yahoo Finance link for TSMC (TSM) in the previous step. The current page should display the stock price. Since the last action was a wait, I need to analyze the current screenshot. I need to scroll down to find the stock price because it's not immediately visible.\nAction: Scroll WINDOW; down\n"
+  }
+]
