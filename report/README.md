@@ -5,7 +5,7 @@
 2. conda activate agentic
 3. pip install -r requirements.txt
 4. Now you can running by `python run.py` (you must to have a Gemini api key before you run)
-5.  you can following the Parameters to adjust `run.py` 
+5. You can following the Parameters to adjust `run.py` 
 
 
 ## Parameters
