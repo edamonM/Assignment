@@ -1,0 +1,1273 @@
+INFO - ########## TASKyahoo stock--3 ##########
+INFO - Load pretrained SentenceTransformer: BAAI/bge-m3
+INFO - Searching for: Go to the search section of yahoo, give me tsmc now stock price , and tell me shoud I buy it now 
+. you can use task2 new, becsuae news is influnce the stock price.
+INFO - Searching results:
+ section: 台積公司 2025 年 4 月營收報告
+content: # 台積公司 2025 年 4 月營收報告
+```
+發佈單位：台灣積體電路製造股份有限公司
+
+```
+`發佈日期：` 2025 `年` 5 `月` 9 `日`
+
+`台灣積體電路製造股份有限公司今（` 9 `）日公佈` 2025 `年` 4 `月營收報告。` 2025 `年` 4 `月合併營收`
+`約為新台幣` 3,495 `億` 6,700 `萬元，較上月增加了` 22.2% `，較去年同期增加了` 48.1% `。累計` 2025
+`年` 1 `至` 4 `月營收約為新台幣` 1 `兆` 1,888 `億` 2,100 `萬元，較去年同期增加了` 43.5% `。`
+```
+台積公司營收報告（合併財務報表）：
+                               單位：新台幣佰萬元
+
+```
+
+
+
+
+
+
+
+
+
+|項目|2025年 4月|2025年 3月|月增 （減） %|2024年 4月|年增 （減） %|2025年 1至4月|2024年 1至4月|年增 （減） %|
+|---|---|---|---|---|---|---|---|---|
+|營收|349,567|285,957|22.2|236,021|48.1|1,188,821|828,665|43.5|
+
+```
+吳皓筠
+企業公共關係處
+
+```
+Tel: 03-563-6688 ext. 712-5657
+
+Mobile: 0988-930-038
+
+E-Mail: [press@tsmc.com](mailto:press@tsmc.com)
+
+```
+台積公司發言人：
+黃仁昭
+資深副總經理暨財務長
+
+```
+Tel: 03-505-5901
+
+```
+台積公司新聞連絡人：
+高孟華
+企業公共關係處主管
+
+```
+Tel: 03-563-6688 ext. 712-5036
+
+Mobile: 0988-239-163
+
+E-Mail: [press@tsmc.com](mailto:press@tsmc.com)
+source: Apr 2025 (C)_final_wmn_enhanced.md
+
+section: 台積公司 2025 年 4 月營收報告
+content: # 台積公司 2025 年 4 月營收報告
+```
+發佈單位：台灣積體電路製造股份有限公司
+
+```
+`發佈日期：` 2025 `年` 5 `月` 9 `日`
+
+`台灣積體電路製造股份有限公司今（` 9 `）日公佈` 2025 `年` 4 `月營收報告。` 2025 `年` 4 `月合併營收`
+`約為新台幣` 3,495 `億` 6,700 `萬元，較上月增加了` 22.2% `，較去年同期增加了` 48.1% `。累計` 2025
+`年` 1 `至` 4 `月營收約為新台幣` 1 `兆` 1,888 `億` 2,100 `萬元，較去年同期增加了` 43.5% `。`
+```
+台積公司營收報告（合併財務報表）：
+                               單位：新台幣佰萬元
+
+```
+
+
+
+
+
+
+
+
+
+|項目|2025年 4月|2025年 3月|月增 （減） %|2024年 4月|年增 （減） %|2025年 1至4月|2024年 1至4月|年增 （減） %|
+|---|---|---|---|---|---|---|---|---|
+|營收|349,567|285,957|22.2|236,021|48.1|1,188,821|828,665|43.5|
+
+```
+吳皓筠
+企業公共關係處
+
+```
+Tel: 03-563-6688 ext. 712-5657
+
+Mobile: 0988-930-038
+
+E-Mail: [press@tsmc.com](mailto:press@tsmc.com)
+
+```
+台積公司發言人：
+黃仁昭
+資深副總經理暨財務長
+
+```
+Tel: 03-505-5901
+
+```
+台積公司新聞連絡人：
+高孟華
+企業公共關係處主管
+
+```
+Tel: 03-563-6688 ext. 712-5036
+
+Mobile: 0988-239-163
+
+E-Mail: [press@tsmc.com](mailto:press@tsmc.com)
+source: Apr 2025 (C)_final_wmn_enhanced.md
+
+section: 台積公司 2025 年 4 月營收報告
+content: # 台積公司 2025 年 4 月營收報告
+```
+發佈單位：台灣積體電路製造股份有限公司
+
+```
+`發佈日期：` 2025 `年` 5 `月` 9 `日`
+
+`台灣積體電路製造股份有限公司今（` 9 `）日公佈` 2025 `年` 4 `月營收報告。` 2025 `年` 4 `月合併營收`
+`約為新台幣` 3,495 `億` 6,700 `萬元，較上月增加了` 22.2% `，較去年同期增加了` 48.1% `。累計` 2025
+`年` 1 `至` 4 `月營收約為新台幣` 1 `兆` 1,888 `億` 2,100 `萬元，較去年同期增加了` 43.5% `。`
+```
+台積公司營收報告（合併財務報表）：
+                               單位：新台幣佰萬元
+
+```
+
+
+
+
+
+
+
+
+
+|項目|2025年 4月|2025年 3月|月增 （減） %|2024年 4月|年增 （減） %|2025年 1至4月|2024年 1至4月|年增 （減） %|
+|---|---|---|---|---|---|---|---|---|
+|營收|349,567|285,957|22.2|236,021|48.1|1,188,821|828,665|43.5|
+
+```
+吳皓筠
+企業公共關係處
+
+```
+Tel: 03-563-6688 ext. 712-5657
+
+Mobile: 0988-930-038
+
+E-Mail: [press@tsmc.com](mailto:press@tsmc.com)
+
+```
+台積公司發言人：
+黃仁昭
+資深副總經理暨財務長
+
+```
+Tel: 03-505-5901
+
+```
+台積公司新聞連絡人：
+高孟華
+企業公共關係處主管
+
+```
+Tel: 03-563-6688 ext. 712-5036
+
+Mobile: 0988-239-163
+
+E-Mail: [press@tsmc.com](mailto:press@tsmc.com)
+source: Apr 2025 (C)_final_wmn_enhanced.md
+
+section: 台積公司 2025 年 4 月營收報告
+content: # 台積公司 2025 年 4 月營收報告
+```
+發佈單位：台灣積體電路製造股份有限公司
+
+```
+`發佈日期：` 2025 `年` 5 `月` 9 `日`
+
+`台灣積體電路製造股份有限公司今（` 9 `）日公佈` 2025 `年` 4 `月營收報告。` 2025 `年` 4 `月合併營收`
+`約為新台幣` 3,495 `億` 6,700 `萬元，較上月增加了` 22.2% `，較去年同期增加了` 48.1% `。累計` 2025
+`年` 1 `至` 4 `月營收約為新台幣` 1 `兆` 1,888 `億` 2,100 `萬元，較去年同期增加了` 43.5% `。`
+```
+台積公司營收報告（合併財務報表）：
+                               單位：新台幣佰萬元
+
+```
+
+
+
+
+
+
+
+
+
+|項目|2025年 4月|2025年 3月|月增 （減） %|2024年 4月|年增 （減） %|2025年 1至4月|2024年 1至4月|年增 （減） %|
+|---|---|---|---|---|---|---|---|---|
+|營收|349,567|285,957|22.2|236,021|48.1|1,188,821|828,665|43.5|
+
+```
+吳皓筠
+企業公共關係處
+
+```
+Tel: 03-563-6688 ext. 712-5657
+
+Mobile: 0988-930-038
+
+E-Mail: [press@tsmc.com](mailto:press@tsmc.com)
+
+```
+台積公司發言人：
+黃仁昭
+資深副總經理暨財務長
+
+```
+Tel: 03-505-5901
+
+```
+台積公司新聞連絡人：
+高孟華
+企業公共關係處主管
+
+```
+Tel: 03-563-6688 ext. 712-5036
+
+Mobile: 0988-239-163
+
+E-Mail: [press@tsmc.com](mailto:press@tsmc.com)
+source: Apr 2025 (C)_final_wmn_enhanced.md
+
+section: 台積公司 2025 年 4 月營收報告
+content: # 台積公司 2025 年 4 月營收報告
+```
+發佈單位：台灣積體電路製造股份有限公司
+
+```
+`發佈日期：` 2025 `年` 5 `月` 9 `日`
+
+`台灣積體電路製造股份有限公司今（` 9 `）日公佈` 2025 `年` 4 `月營收報告。` 2025 `年` 4 `月合併營收`
+`約為新台幣` 3,495 `億` 6,700 `萬元，較上月增加了` 22.2% `，較去年同期增加了` 48.1% `。累計` 2025
+`年` 1 `至` 4 `月營收約為新台幣` 1 `兆` 1,888 `億` 2,100 `萬元，較去年同期增加了` 43.5% `。`
+```
+台積公司營收報告（合併財務報表）：
+                               單位：新台幣佰萬元
+
+```
+
+
+
+
+
+
+
+
+
+|項目|2025年 4月|2025年 3月|月增 （減） %|2024年 4月|年增 （減） %|2025年 1至4月|2024年 1至4月|年增 （減） %|
+|---|---|---|---|---|---|---|---|---|
+|營收|349,567|285,957|22.2|236,021|48.1|1,188,821|828,665|43.5|
+
+```
+吳皓筠
+企業公共關係處
+
+```
+Tel: 03-563-6688 ext. 712-5657
+
+Mobile: 0988-930-038
+
+E-Mail: [press@tsmc.com](mailto:press@tsmc.com)
+
+```
+台積公司發言人：
+黃仁昭
+資深副總經理暨財務長
+
+```
+Tel: 03-505-5901
+
+```
+台積公司新聞連絡人：
+高孟華
+企業公共關係處主管
+
+```
+Tel: 03-563-6688 ext. 712-5036
+
+Mobile: 0988-239-163
+
+E-Mail: [press@tsmc.com](mailto:press@tsmc.com)
+source: Apr 2025 (C)_final_wmn_enhanced.md
+
+section: 台積公司 2025 年 4 月營收報告
+content: # 台積公司 2025 年 4 月營收報告
+```
+發佈單位：台灣積體電路製造股份有限公司
+
+```
+`發佈日期：` 2025 `年` 5 `月` 9 `日`
+
+`台灣積體電路製造股份有限公司今（` 9 `）日公佈` 2025 `年` 4 `月營收報告。` 2025 `年` 4 `月合併營收`
+`約為新台幣` 3,495 `億` 6,700 `萬元，較上月增加了` 22.2% `，較去年同期增加了` 48.1% `。累計` 2025
+`年` 1 `至` 4 `月營收約為新台幣` 1 `兆` 1,888 `億` 2,100 `萬元，較去年同期增加了` 43.5% `。`
+```
+台積公司營收報告（合併財務報表）：
+                               單位：新台幣佰萬元
+
+```
+
+
+
+
+
+
+
+
+
+|項目|2025年 4月|2025年 3月|月增 （減） %|2024年 4月|年增 （減） %|2025年 1至4月|2024年 1至4月|年增 （減） %|
+|---|---|---|---|---|---|---|---|---|
+|營收|349,567|285,957|22.2|236,021|48.1|1,188,821|828,665|43.5|
+
+```
+吳皓筠
+企業公共關係處
+
+```
+Tel: 03-563-6688 ext. 712-5657
+
+Mobile: 0988-930-038
+
+E-Mail: [press@tsmc.com](mailto:press@tsmc.com)
+
+```
+台積公司發言人：
+黃仁昭
+資深副總經理暨財務長
+
+```
+Tel: 03-505-5901
+
+```
+台積公司新聞連絡人：
+高孟華
+企業公共關係處主管
+
+```
+Tel: 03-563-6688 ext. 712-5036
+
+Mobile: 0988-239-163
+
+E-Mail: [press@tsmc.com](mailto:press@tsmc.com)
+source: Apr 2025 (C)_final_wmn_enhanced.md
+
+section: 台積公司 2025 年 4 月營收報告
+content: # 台積公司 2025 年 4 月營收報告
+```
+發佈單位：台灣積體電路製造股份有限公司
+
+```
+`發佈日期：` 2025 `年` 5 `月` 9 `日`
+
+`台灣積體電路製造股份有限公司今（` 9 `）日公佈` 2025 `年` 4 `月營收報告。` 2025 `年` 4 `月合併營收`
+`約為新台幣` 3,495 `億` 6,700 `萬元，較上月增加了` 22.2% `，較去年同期增加了` 48.1% `。累計` 2025
+`年` 1 `至` 4 `月營收約為新台幣` 1 `兆` 1,888 `億` 2,100 `萬元，較去年同期增加了` 43.5% `。`
+```
+台積公司營收報告（合併財務報表）：
+                               單位：新台幣佰萬元
+
+```
+
+
+
+
+
+
+
+
+
+|項目|2025年 4月|2025年 3月|月增 （減） %|2024年 4月|年增 （減） %|2025年 1至4月|2024年 1至4月|年增 （減） %|
+|---|---|---|---|---|---|---|---|---|
+|營收|349,567|285,957|22.2|236,021|48.1|1,188,821|828,665|43.5|
+
+```
+吳皓筠
+企業公共關係處
+
+```
+Tel: 03-563-6688 ext. 712-5657
+
+Mobile: 0988-930-038
+
+E-Mail: [press@tsmc.com](mailto:press@tsmc.com)
+
+```
+台積公司發言人：
+黃仁昭
+資深副總經理暨財務長
+
+```
+Tel: 03-505-5901
+
+```
+台積公司新聞連絡人：
+高孟華
+企業公共關係處主管
+
+```
+Tel: 03-563-6688 ext. 712-5036
+
+Mobile: 0988-239-163
+
+E-Mail: [press@tsmc.com](mailto:press@tsmc.com)
+source: Apr 2025 (C)_final_wmn_enhanced.md
+
+section: 台積公司 2025 年 4 月營收報告
+content: # 台積公司 2025 年 4 月營收報告
+```
+發佈單位：台灣積體電路製造股份有限公司
+
+```
+`發佈日期：` 2025 `年` 5 `月` 9 `日`
+
+`台灣積體電路製造股份有限公司今（` 9 `）日公佈` 2025 `年` 4 `月營收報告。` 2025 `年` 4 `月合併營收`
+`約為新台幣` 3,495 `億` 6,700 `萬元，較上月增加了` 22.2% `，較去年同期增加了` 48.1% `。累計` 2025
+`年` 1 `至` 4 `月營收約為新台幣` 1 `兆` 1,888 `億` 2,100 `萬元，較去年同期增加了` 43.5% `。`
+```
+台積公司營收報告（合併財務報表）：
+                               單位：新台幣佰萬元
+
+```
+
+
+
+
+
+
+
+
+
+|項目|2025年 4月|2025年 3月|月增 （減） %|2024年 4月|年增 （減） %|2025年 1至4月|2024年 1至4月|年增 （減） %|
+|---|---|---|---|---|---|---|---|---|
+|營收|349,567|285,957|22.2|236,021|48.1|1,188,821|828,665|43.5|
+
+```
+吳皓筠
+企業公共關係處
+
+```
+Tel: 03-563-6688 ext. 712-5657
+
+Mobile: 0988-930-038
+
+E-Mail: [press@tsmc.com](mailto:press@tsmc.com)
+
+```
+台積公司發言人：
+黃仁昭
+資深副總經理暨財務長
+
+```
+Tel: 03-505-5901
+
+```
+台積公司新聞連絡人：
+高孟華
+企業公共關係處主管
+
+```
+Tel: 03-563-6688 ext. 712-5036
+
+Mobile: 0988-239-163
+
+E-Mail: [press@tsmc.com](mailto:press@tsmc.com)
+source: Apr 2025 (C)_final_wmn_enhanced.md
+
+section: 台積公司 2025 年 4 月營收報告
+content: # 台積公司 2025 年 4 月營收報告
+```
+發佈單位：台灣積體電路製造股份有限公司
+
+```
+`發佈日期：` 2025 `年` 5 `月` 9 `日`
+
+`台灣積體電路製造股份有限公司今（` 9 `）日公佈` 2025 `年` 4 `月營收報告。` 2025 `年` 4 `月合併營收`
+`約為新台幣` 3,495 `億` 6,700 `萬元，較上月增加了` 22.2% `，較去年同期增加了` 48.1% `。累計` 2025
+`年` 1 `至` 4 `月營收約為新台幣` 1 `兆` 1,888 `億` 2,100 `萬元，較去年同期增加了` 43.5% `。`
+```
+台積公司營收報告（合併財務報表）：
+                               單位：新台幣佰萬元
+
+```
+
+
+
+
+
+
+
+
+
+|項目|2025年 4月|2025年 3月|月增 （減） %|2024年 4月|年增 （減） %|2025年 1至4月|2024年 1至4月|年增 （減） %|
+|---|---|---|---|---|---|---|---|---|
+|營收|349,567|285,957|22.2|236,021|48.1|1,188,821|828,665|43.5|
+
+```
+吳皓筠
+企業公共關係處
+
+```
+Tel: 03-563-6688 ext. 712-5657
+
+Mobile: 0988-930-038
+
+E-Mail: [press@tsmc.com](mailto:press@tsmc.com)
+
+```
+台積公司發言人：
+黃仁昭
+資深副總經理暨財務長
+
+```
+Tel: 03-505-5901
+
+```
+台積公司新聞連絡人：
+高孟華
+企業公共關係處主管
+
+```
+Tel: 03-563-6688 ext. 712-5036
+
+Mobile: 0988-239-163
+
+E-Mail: [press@tsmc.com](mailto:press@tsmc.com)
+source: Apr 2025 (C)_final_wmn_enhanced.md
+
+section: 台積公司 2025 年 4 月營收報告
+content: # 台積公司 2025 年 4 月營收報告
+```
+發佈單位：台灣積體電路製造股份有限公司
+
+```
+`發佈日期：` 2025 `年` 5 `月` 9 `日`
+
+`台灣積體電路製造股份有限公司今（` 9 `）日公佈` 2025 `年` 4 `月營收報告。` 2025 `年` 4 `月合併營收`
+`約為新台幣` 3,495 `億` 6,700 `萬元，較上月增加了` 22.2% `，較去年同期增加了` 48.1% `。累計` 2025
+`年` 1 `至` 4 `月營收約為新台幣` 1 `兆` 1,888 `億` 2,100 `萬元，較去年同期增加了` 43.5% `。`
+```
+台積公司營收報告（合併財務報表）：
+                               單位：新台幣佰萬元
+
+```
+
+
+
+
+
+
+
+
+
+|項目|2025年 4月|2025年 3月|月增 （減） %|2024年 4月|年增 （減） %|2025年 1至4月|2024年 1至4月|年增 （減） %|
+|---|---|---|---|---|---|---|---|---|
+|營收|349,567|285,957|22.2|236,021|48.1|1,188,821|828,665|43.5|
+
+```
+吳皓筠
+企業公共關係處
+
+```
+Tel: 03-563-6688 ext. 712-5657
+
+Mobile: 0988-930-038
+
+E-Mail: [press@tsmc.com](mailto:press@tsmc.com)
+
+```
+台積公司發言人：
+黃仁昭
+資深副總經理暨財務長
+
+```
+Tel: 03-505-5901
+
+```
+台積公司新聞連絡人：
+高孟華
+企業公共關係處主管
+
+```
+Tel: 03-563-6688 ext. 712-5036
+
+Mobile: 0988-239-163
+
+E-Mail: [press@tsmc.com](mailto:press@tsmc.com)
+source: Apr 2025 (C)_final_wmn_enhanced.md
+
+section: 台積公司 2025 年 4 月營收報告
+content: # 台積公司 2025 年 4 月營收報告
+```
+發佈單位：台灣積體電路製造股份有限公司
+
+```
+`發佈日期：` 2025 `年` 5 `月` 9 `日`
+
+`台灣積體電路製造股份有限公司今（` 9 `）日公佈` 2025 `年` 4 `月營收報告。` 2025 `年` 4 `月合併營收`
+`約為新台幣` 3,495 `億` 6,700 `萬元，較上月增加了` 22.2% `，較去年同期增加了` 48.1% `。累計` 2025
+`年` 1 `至` 4 `月營收約為新台幣` 1 `兆` 1,888 `億` 2,100 `萬元，較去年同期增加了` 43.5% `。`
+```
+台積公司營收報告（合併財務報表）：
+                               單位：新台幣佰萬元
+
+```
+
+
+
+
+
+
+
+
+
+|項目|2025年 4月|2025年 3月|月增 （減） %|2024年 4月|年增 （減） %|2025年 1至4月|2024年 1至4月|年增 （減） %|
+|---|---|---|---|---|---|---|---|---|
+|營收|349,567|285,957|22.2|236,021|48.1|1,188,821|828,665|43.5|
+
+```
+吳皓筠
+企業公共關係處
+
+```
+Tel: 03-563-6688 ext. 712-5657
+
+Mobile: 0988-930-038
+
+E-Mail: [press@tsmc.com](mailto:press@tsmc.com)
+
+```
+台積公司發言人：
+黃仁昭
+資深副總經理暨財務長
+
+```
+Tel: 03-505-5901
+
+```
+台積公司新聞連絡人：
+高孟華
+企業公共關係處主管
+
+```
+Tel: 03-563-6688 ext. 712-5036
+
+Mobile: 0988-239-163
+
+E-Mail: [press@tsmc.com](mailto:press@tsmc.com)
+source: Apr 2025 (C)_final_wmn_enhanced.md
+
+section: 台積公司 2025 年 4 月營收報告
+content: # 台積公司 2025 年 4 月營收報告
+```
+發佈單位：台灣積體電路製造股份有限公司
+
+```
+`發佈日期：` 2025 `年` 5 `月` 9 `日`
+
+`台灣積體電路製造股份有限公司今（` 9 `）日公佈` 2025 `年` 4 `月營收報告。` 2025 `年` 4 `月合併營收`
+`約為新台幣` 3,495 `億` 6,700 `萬元，較上月增加了` 22.2% `，較去年同期增加了` 48.1% `。累計` 2025
+`年` 1 `至` 4 `月營收約為新台幣` 1 `兆` 1,888 `億` 2,100 `萬元，較去年同期增加了` 43.5% `。`
+```
+台積公司營收報告（合併財務報表）：
+                               單位：新台幣佰萬元
+
+```
+
+
+
+
+
+
+
+
+
+|項目|2025年 4月|2025年 3月|月增 （減） %|2024年 4月|年增 （減） %|2025年 1至4月|2024年 1至4月|年增 （減） %|
+|---|---|---|---|---|---|---|---|---|
+|營收|349,567|285,957|22.2|236,021|48.1|1,188,821|828,665|43.5|
+
+```
+吳皓筠
+企業公共關係處
+
+```
+Tel: 03-563-6688 ext. 712-5657
+
+Mobile: 0988-930-038
+
+E-Mail: [press@tsmc.com](mailto:press@tsmc.com)
+
+```
+台積公司發言人：
+黃仁昭
+資深副總經理暨財務長
+
+```
+Tel: 03-505-5901
+
+```
+台積公司新聞連絡人：
+高孟華
+企業公共關係處主管
+
+```
+Tel: 03-563-6688 ext. 712-5036
+
+Mobile: 0988-239-163
+
+E-Mail: [press@tsmc.com](mailto:press@tsmc.com)
+source: Apr 2025 (C)_final_wmn_enhanced.md
+
+section: 台積公司 2025 年 4 月營收報告
+content: # 台積公司 2025 年 4 月營收報告
+```
+發佈單位：台灣積體電路製造股份有限公司
+
+```
+`發佈日期：` 2025 `年` 5 `月` 9 `日`
+
+`台灣積體電路製造股份有限公司今（` 9 `）日公佈` 2025 `年` 4 `月營收報告。` 2025 `年` 4 `月合併營收`
+`約為新台幣` 3,495 `億` 6,700 `萬元，較上月增加了` 22.2% `，較去年同期增加了` 48.1% `。累計` 2025
+`年` 1 `至` 4 `月營收約為新台幣` 1 `兆` 1,888 `億` 2,100 `萬元，較去年同期增加了` 43.5% `。`
+```
+台積公司營收報告（合併財務報表）：
+                               單位：新台幣佰萬元
+
+```
+
+
+
+
+
+
+
+
+
+|項目|2025年 4月|2025年 3月|月增 （減） %|2024年 4月|年增 （減） %|2025年 1至4月|2024年 1至4月|年增 （減） %|
+|---|---|---|---|---|---|---|---|---|
+|營收|349,567|285,957|22.2|236,021|48.1|1,188,821|828,665|43.5|
+
+```
+吳皓筠
+企業公共關係處
+
+```
+Tel: 03-563-6688 ext. 712-5657
+
+Mobile: 0988-930-038
+
+E-Mail: [press@tsmc.com](mailto:press@tsmc.com)
+
+```
+台積公司發言人：
+黃仁昭
+資深副總經理暨財務長
+
+```
+Tel: 03-505-5901
+
+```
+台積公司新聞連絡人：
+高孟華
+企業公共關係處主管
+
+```
+Tel: 03-563-6688 ext. 712-5036
+
+Mobile: 0988-239-163
+
+E-Mail: [press@tsmc.com](mailto:press@tsmc.com)
+source: Apr 2025 (C)_final_wmn_enhanced.md
+
+section: 台積公司 2025 年 4 月營收報告
+content: # 台積公司 2025 年 4 月營收報告
+```
+發佈單位：台灣積體電路製造股份有限公司
+
+```
+`發佈日期：` 2025 `年` 5 `月` 9 `日`
+
+`台灣積體電路製造股份有限公司今（` 9 `）日公佈` 2025 `年` 4 `月營收報告。` 2025 `年` 4 `月合併營收`
+`約為新台幣` 3,495 `億` 6,700 `萬元，較上月增加了` 22.2% `，較去年同期增加了` 48.1% `。累計` 2025
+`年` 1 `至` 4 `月營收約為新台幣` 1 `兆` 1,888 `億` 2,100 `萬元，較去年同期增加了` 43.5% `。`
+```
+台積公司營收報告（合併財務報表）：
+                               單位：新台幣佰萬元
+
+```
+
+
+
+
+
+
+
+
+
+|項目|2025年 4月|2025年 3月|月增 （減） %|2024年 4月|年增 （減） %|2025年 1至4月|2024年 1至4月|年增 （減） %|
+|---|---|---|---|---|---|---|---|---|
+|營收|349,567|285,957|22.2|236,021|48.1|1,188,821|828,665|43.5|
+
+```
+吳皓筠
+企業公共關係處
+
+```
+Tel: 03-563-6688 ext. 712-5657
+
+Mobile: 0988-930-038
+
+E-Mail: [press@tsmc.com](mailto:press@tsmc.com)
+
+```
+台積公司發言人：
+黃仁昭
+資深副總經理暨財務長
+
+```
+Tel: 03-505-5901
+
+```
+台積公司新聞連絡人：
+高孟華
+企業公共關係處主管
+
+```
+Tel: 03-563-6688 ext. 712-5036
+
+Mobile: 0988-239-163
+
+E-Mail: [press@tsmc.com](mailto:press@tsmc.com)
+source: Apr 2025 (C)_final_wmn_enhanced.md
+
+section: 台積公司 2025 年 4 月營收報告
+content: # 台積公司 2025 年 4 月營收報告
+```
+發佈單位：台灣積體電路製造股份有限公司
+
+```
+`發佈日期：` 2025 `年` 5 `月` 9 `日`
+
+`台灣積體電路製造股份有限公司今（` 9 `）日公佈` 2025 `年` 4 `月營收報告。` 2025 `年` 4 `月合併營收`
+`約為新台幣` 3,495 `億` 6,700 `萬元，較上月增加了` 22.2% `，較去年同期增加了` 48.1% `。累計` 2025
+`年` 1 `至` 4 `月營收約為新台幣` 1 `兆` 1,888 `億` 2,100 `萬元，較去年同期增加了` 43.5% `。`
+```
+台積公司營收報告（合併財務報表）：
+                               單位：新台幣佰萬元
+
+```
+
+
+
+
+
+
+
+
+
+|項目|2025年 4月|2025年 3月|月增 （減） %|2024年 4月|年增 （減） %|2025年 1至4月|2024年 1至4月|年增 （減） %|
+|---|---|---|---|---|---|---|---|---|
+|營收|349,567|285,957|22.2|236,021|48.1|1,188,821|828,665|43.5|
+
+```
+吳皓筠
+企業公共關係處
+
+```
+Tel: 03-563-6688 ext. 712-5657
+
+Mobile: 0988-930-038
+
+E-Mail: [press@tsmc.com](mailto:press@tsmc.com)
+
+```
+台積公司發言人：
+黃仁昭
+資深副總經理暨財務長
+
+```
+Tel: 03-505-5901
+
+```
+台積公司新聞連絡人：
+高孟華
+企業公共關係處主管
+
+```
+Tel: 03-563-6688 ext. 712-5036
+
+Mobile: 0988-239-163
+
+E-Mail: [press@tsmc.com](mailto:press@tsmc.com)
+source: Apr 2025 (C)_final_wmn_enhanced.md
+
+section: 台積公司 2025 年 4 月營收報告
+content: # 台積公司 2025 年 4 月營收報告
+```
+發佈單位：台灣積體電路製造股份有限公司
+
+```
+`發佈日期：` 2025 `年` 5 `月` 9 `日`
+
+`台灣積體電路製造股份有限公司今（` 9 `）日公佈` 2025 `年` 4 `月營收報告。` 2025 `年` 4 `月合併營收`
+`約為新台幣` 3,495 `億` 6,700 `萬元，較上月增加了` 22.2% `，較去年同期增加了` 48.1% `。累計` 2025
+`年` 1 `至` 4 `月營收約為新台幣` 1 `兆` 1,888 `億` 2,100 `萬元，較去年同期增加了` 43.5% `。`
+```
+台積公司營收報告（合併財務報表）：
+                               單位：新台幣佰萬元
+
+```
+
+
+
+
+
+
+
+
+
+|項目|2025年 4月|2025年 3月|月增 （減） %|2024年 4月|年增 （減） %|2025年 1至4月|2024年 1至4月|年增 （減） %|
+|---|---|---|---|---|---|---|---|---|
+|營收|349,567|285,957|22.2|236,021|48.1|1,188,821|828,665|43.5|
+
+```
+吳皓筠
+企業公共關係處
+
+```
+Tel: 03-563-6688 ext. 712-5657
+
+Mobile: 0988-930-038
+
+E-Mail: [press@tsmc.com](mailto:press@tsmc.com)
+
+```
+台積公司發言人：
+黃仁昭
+資深副總經理暨財務長
+
+```
+Tel: 03-505-5901
+
+```
+台積公司新聞連絡人：
+高孟華
+企業公共關係處主管
+
+```
+Tel: 03-563-6688 ext. 712-5036
+
+Mobile: 0988-239-163
+
+E-Mail: [press@tsmc.com](mailto:press@tsmc.com)
+source: Apr 2025 (C)_final_wmn_enhanced.md
+
+section: 台積公司 2025 年 4 月營收報告
+content: # 台積公司 2025 年 4 月營收報告
+```
+發佈單位：台灣積體電路製造股份有限公司
+
+```
+`發佈日期：` 2025 `年` 5 `月` 9 `日`
+
+`台灣積體電路製造股份有限公司今（` 9 `）日公佈` 2025 `年` 4 `月營收報告。` 2025 `年` 4 `月合併營收`
+`約為新台幣` 3,495 `億` 6,700 `萬元，較上月增加了` 22.2% `，較去年同期增加了` 48.1% `。累計` 2025
+`年` 1 `至` 4 `月營收約為新台幣` 1 `兆` 1,888 `億` 2,100 `萬元，較去年同期增加了` 43.5% `。`
+```
+台積公司營收報告（合併財務報表）：
+                               單位：新台幣佰萬元
+
+```
+
+
+
+
+
+
+
+
+
+|項目|2025年 4月|2025年 3月|月增 （減） %|2024年 4月|年增 （減） %|2025年 1至4月|2024年 1至4月|年增 （減） %|
+|---|---|---|---|---|---|---|---|---|
+|營收|349,567|285,957|22.2|236,021|48.1|1,188,821|828,665|43.5|
+
+```
+吳皓筠
+企業公共關係處
+
+```
+Tel: 03-563-6688 ext. 712-5657
+
+Mobile: 0988-930-038
+
+E-Mail: [press@tsmc.com](mailto:press@tsmc.com)
+
+```
+台積公司發言人：
+黃仁昭
+資深副總經理暨財務長
+
+```
+Tel: 03-505-5901
+
+```
+台積公司新聞連絡人：
+高孟華
+企業公共關係處主管
+
+```
+Tel: 03-563-6688 ext. 712-5036
+
+Mobile: 0988-239-163
+
+E-Mail: [press@tsmc.com](mailto:press@tsmc.com)
+source: Apr 2025 (C)_final_wmn_enhanced.md
+
+section: 台積公司 2025 年 4 月營收報告
+content: # 台積公司 2025 年 4 月營收報告
+```
+發佈單位：台灣積體電路製造股份有限公司
+
+```
+`發佈日期：` 2025 `年` 5 `月` 9 `日`
+
+`台灣積體電路製造股份有限公司今（` 9 `）日公佈` 2025 `年` 4 `月營收報告。` 2025 `年` 4 `月合併營收`
+`約為新台幣` 3,495 `億` 6,700 `萬元，較上月增加了` 22.2% `，較去年同期增加了` 48.1% `。累計` 2025
+`年` 1 `至` 4 `月營收約為新台幣` 1 `兆` 1,888 `億` 2,100 `萬元，較去年同期增加了` 43.5% `。`
+```
+台積公司營收報告（合併財務報表）：
+                               單位：新台幣佰萬元
+
+```
+
+
+
+
+
+
+
+
+
+|項目|2025年 4月|2025年 3月|月增 （減） %|2024年 4月|年增 （減） %|2025年 1至4月|2024年 1至4月|年增 （減） %|
+|---|---|---|---|---|---|---|---|---|
+|營收|349,567|285,957|22.2|236,021|48.1|1,188,821|828,665|43.5|
+
+```
+吳皓筠
+企業公共關係處
+
+```
+Tel: 03-563-6688 ext. 712-5657
+
+Mobile: 0988-930-038
+
+E-Mail: [press@tsmc.com](mailto:press@tsmc.com)
+
+```
+台積公司發言人：
+黃仁昭
+資深副總經理暨財務長
+
+```
+Tel: 03-505-5901
+
+```
+台積公司新聞連絡人：
+高孟華
+企業公共關係處主管
+
+```
+Tel: 03-563-6688 ext. 712-5036
+
+Mobile: 0988-239-163
+
+E-Mail: [press@tsmc.com](mailto:press@tsmc.com)
+source: Apr 2025 (C)_final_wmn_enhanced.md
+
+section: 台積公司 2025 年 4 月營收報告
+content: # 台積公司 2025 年 4 月營收報告
+```
+發佈單位：台灣積體電路製造股份有限公司
+
+```
+`發佈日期：` 2025 `年` 5 `月` 9 `日`
+
+`台灣積體電路製造股份有限公司今（` 9 `）日公佈` 2025 `年` 4 `月營收報告。` 2025 `年` 4 `月合併營收`
+`約為新台幣` 3,495 `億` 6,700 `萬元，較上月增加了` 22.2% `，較去年同期增加了` 48.1% `。累計` 2025
+`年` 1 `至` 4 `月營收約為新台幣` 1 `兆` 1,888 `億` 2,100 `萬元，較去年同期增加了` 43.5% `。`
+```
+台積公司營收報告（合併財務報表）：
+                               單位：新台幣佰萬元
+
+```
+
+
+
+
+
+
+
+
+
+|項目|2025年 4月|2025年 3月|月增 （減） %|2024年 4月|年增 （減） %|2025年 1至4月|2024年 1至4月|年增 （減） %|
+|---|---|---|---|---|---|---|---|---|
+|營收|349,567|285,957|22.2|236,021|48.1|1,188,821|828,665|43.5|
+
+```
+吳皓筠
+企業公共關係處
+
+```
+Tel: 03-563-6688 ext. 712-5657
+
+Mobile: 0988-930-038
+
+E-Mail: [press@tsmc.com](mailto:press@tsmc.com)
+
+```
+台積公司發言人：
+黃仁昭
+資深副總經理暨財務長
+
+```
+Tel: 03-505-5901
+
+```
+台積公司新聞連絡人：
+高孟華
+企業公共關係處主管
+
+```
+Tel: 03-563-6688 ext. 712-5036
+
+Mobile: 0988-239-163
+
+E-Mail: [press@tsmc.com](mailto:press@tsmc.com)
+source: Apr 2025 (C)_final_wmn_enhanced.md
+
+section: 台積公司 2025 年 4 月營收報告
+content: # 台積公司 2025 年 4 月營收報告
+```
+發佈單位：台灣積體電路製造股份有限公司
+
+```
+`發佈日期：` 2025 `年` 5 `月` 9 `日`
+
+`台灣積體電路製造股份有限公司今（` 9 `）日公佈` 2025 `年` 4 `月營收報告。` 2025 `年` 4 `月合併營收`
+`約為新台幣` 3,495 `億` 6,700 `萬元，較上月增加了` 22.2% `，較去年同期增加了` 48.1% `。累計` 2025
+`年` 1 `至` 4 `月營收約為新台幣` 1 `兆` 1,888 `億` 2,100 `萬元，較去年同期增加了` 43.5% `。`
+```
+台積公司營收報告（合併財務報表）：
+                               單位：新台幣佰萬元
+
+```
+
+
+
+
+
+
+
+
+
+|項目|2025年 4月|2025年 3月|月增 （減） %|2024年 4月|年增 （減） %|2025年 1至4月|2024年 1至4月|年增 （減） %|
+|---|---|---|---|---|---|---|---|---|
+|營收|349,567|285,957|22.2|236,021|48.1|1,188,821|828,665|43.5|
+
+```
+吳皓筠
+企業公共關係處
+
+```
+Tel: 03-563-6688 ext. 712-5657
+
+Mobile: 0988-930-038
+
+E-Mail: [press@tsmc.com](mailto:press@tsmc.com)
+
+```
+台積公司發言人：
+黃仁昭
+資深副總經理暨財務長
+
+```
+Tel: 03-505-5901
+
+```
+台積公司新聞連絡人：
+高孟華
+企業公共關係處主管
+
+```
+Tel: 03-563-6688 ext. 712-5036
+
+Mobile: 0988-239-163
+
+E-Mail: [press@tsmc.com](mailto:press@tsmc.com)
+source: Apr 2025 (C)_final_wmn_enhanced.md
+
+
+INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+INFO - manual:
+ ```
+Task Goal: Go to the search section of yahoo, give me tsmc now stock price , and tell me shoud I buy it now 
+. you can use task2 new, becsuae news is influnce the stock price.
+Steps:
+1. Open your web browser and navigate to yahoo.com.
+2. Locate the search bar on the Yahoo homepage. It's typically at the top of the page.
+3. Type 'TSMC stock price' into the search bar.
+4. Press Enter or click the search icon to initiate the search.
+5. The current stock price of TSMC should be displayed prominently in the search results, often in a dedicated stock quote section. Note down the current stock price.
+6. In the same Yahoo search bar, type 'TSMC news' and press Enter.
+7. Review the latest news articles about TSMC from reputable sources (e.g., Reuters, Bloomberg, Yahoo Finance).
+8. Analyze the news for any significant positive or negative developments that could influence the stock price (e.g., earnings reports, new contracts, industry trends).
+9. Based on the current stock price and the recent news, make a judgment on whether to buy the stock. Note: I am an AI and cannot provide financial advice. Consider consulting with a financial professional before making any investment decisions.
+```
+INFO - Iter: 0
+INFO - Calling gpt4v API...
+INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+INFO - Prompt Tokens: 3517; Completion Tokens: 50
+INFO - Accumulate Prompt Tokens: 3517; Accumulate Completion Tokens: 50
+INFO - API call complete...
+INFO - Num of interactive elements: 36
+INFO - Iter: 1
+INFO - Calling gpt4v API...
+INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+INFO - Prompt Tokens: 3755; Completion Tokens: 69
+INFO - Accumulate Prompt Tokens: 7272; Accumulate Completion Tokens: 119
+INFO - API call complete...
+INFO - Num of interactive elements: 61
+INFO - Iter: 2
+INFO - Calling gpt4v API...
+INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+INFO - Prompt Tokens: 4009; Completion Tokens: 171
+INFO - Accumulate Prompt Tokens: 11281; Accumulate Completion Tokens: 290
+INFO - API call complete...
+INFO - Num of interactive elements: 35
+INFO - TSMC current stock price is 189.67 USD. Analysts' rating is "Strong Buy". TSMC's chairman bought TSMC shares recently, which indicates confidence in the company. The 1-year price target is 221. Based on this information, it is recommended to buy it now.
+INFO - finish!!
+INFO - {'role': 'system', 'content': 'Imagine you are a robot browsing the web, just like humans. Now you need to complete a task. In each iteration, you will receive an Observation that includes a screenshot of a webpage and some texts. This screenshot will feature Numerical Labels placed in the TOP LEFT corner of each Web Element.\nCarefully analyze the visual information to identify the Numerical Label corresponding to the Web Element that requires interaction, then follow the guidelines and choose one of the following actions:\n1. Click a Web Element.\n2. Delete existing content in a textbox and then type content. \n3. Scroll up or down. Multiple scrolls are allowed to browse the webpage. Pay attention!! The default scroll is the whole window. If the scroll widget is located in a certain area of the webpage, then you have to specify a Web Element in that area. I would hover the mouse there and then scroll.\n4. Wait. Typically used to wait for unfinished webpage processes, with a duration of 5 seconds.\n5. Go back, returning to the previous webpage.\n6. Google, directly jump to the Google search page. When you can\'t find information in some websites, try starting over with Google.\n7. Answer. This action should only be chosen when all questions in the task have been solved.\n\nCorrespondingly, Action should STRICTLY follow the format:\n- Click [Numerical_Label]\n- Type [Numerical_Label]; [Content]\n- Scroll [Numerical_Label or WINDOW]; [up or down]\n- Wait\n- GoBack\n- Google\n- ANSWER; [content]\n\nKey Guidelines You MUST follow:\n* Action guidelines *\n1) To input text, NO need to click textbox first, directly type content. After typing, the system automatically hits `ENTER` key. Sometimes you should click the search button to apply search filters. Try to use simple language when searching.  \n2) You must Distinguish between textbox and search button, don\'t type content into the button! If no textbox is found, you may need to click the search button first before the textbox is displayed. \n3) Execute only one action per iteration. \n4) STRICTLY Avoid repeating the same action if the webpage remains unchanged. You may have selected the wrong web element or numerical label. Continuous use of the Wait is also NOT allowed.\n5) When a complex Task involves multiple questions or steps, select "ANSWER" only at the very end, after addressing all of these questions (steps). Flexibly combine your own abilities with the information in the web page. Double check the formatting requirements in the task when ANSWER. \n* Web Browsing Guidelines *\n1) Don\'t interact with useless web elements like Login, Sign-in, donation that appear in Webpages. Pay attention to Key Web Elements like search textbox and menu.\n2) Vsit video websites like YouTube is allowed BUT you can\'t play videos. Clicking to download PDF is allowed and will be analyzed by the Assistant API.\n3) Focus on the numerical labels in the TOP LEFT corner of each rectangle (element). Ensure you don\'t mix them up with other numbers (e.g. Calendar) on the page.\n4) Focus on the date in task, you must look for results that match the date. It may be necessary to find the correct year, month and day at calendar.\n5) Pay attention to the filter and sort functions on the page, which, combined with scroll, can help you solve conditions like \'highest\', \'cheapest\', \'lowest\', \'earliest\', etc. Try your best to find the answer that best fits the task.\n\nYour reply should strictly follow the format:\nThought: {Your brief thoughts (briefly summarize the info that will help ANSWER)}\nAction: {One Action format you choose}\n\nThen the User will provide:\nObservation: {A labeled screenshot Given by User}'}
+INFO - {'role': 'user', 'content': "Today is 2025-05-13. Now given a task: Go to the search section of yahoo, give me tsmc now stock price , and tell me shoud I buy it now \n. you can use task2 new, becsuae news is influnce the stock price. .\n This is task 2 news abstract: Tech giants Microsoft, Apple, and Nvidia top Visual Capitalist list while TSMC leads Asia  Please interact with https://www.bing.com/ and get the answer. \nBefore taking action, carefully analyze the contents in [Manuals and QA pairs] below.\nDetermine whether [Manuals and QA pairs] contain relevant procedures, constraints, or guidelines that should be followed for this task.\nIf so, follow their guidance accordingly. If not, proceed with a logical and complete approach.\n[Key Guidelines You MUST follow]\nBefore taking any action, analyze the provided [Manuals and QA pairs] as a whole to determine if they contain useful procedures, constraints, or guidelines relevant to this task.\n - If [Manuals and QA pairs] provide comprehensive guidance, strictly follow their instructions in an ordered and structured manner.\n - If [Manuals and QA pairs] contain partial but useful information, integrate it into your approach while filling in the gaps logically.\n - If [Manuals and QA pairs] are entirely irrelevant or insufficient, proceed with the best available method while ensuring completeness.\n\n[Manuals and QA pairs]\n```\nTask Goal: Go to the search section of yahoo, give me tsmc now stock price , and tell me shoud I buy it now \n. you can use task2 new, becsuae news is influnce the stock price.\nSteps:\n1. Open your web browser and navigate to yahoo.com.\n2. Locate the search bar on the Yahoo homepage. It's typically at the top of the page.\n3. Type 'TSMC stock price' into the search bar.\n4. Press Enter or click the search icon to initiate the search.\n5. The current stock price of TSMC should be displayed prominently in the search results, often in a dedicated stock quote section. Note down the current stock price.\n6. In the same Yahoo search bar, type 'TSMC news' and press Enter.\n7. Review the latest news articles about TSMC from reputable sources (e.g., Reuters, Bloomberg, Yahoo Finance).\n8. Analyze the news for any significant positive or negative developments that could influence the stock price (e.g., earnings reports, new contracts, industry trends).\n9. Based on the current stock price and the recent news, make a judgment on whether to buy the stock. Note: I am an AI and cannot provide financial advice. Consider consulting with a financial professional before making any investment decisions.\n```Observation: A screenshot and some texts. (Omitted in context.)"}
+INFO - {'role': 'assistant', 'content': 'Thought: The Manual provides clear steps to find the TSMC stock price and news using Yahoo search. I will follow these steps using Bing, given that the user has provided the Bing page.\nAction: Type [18]; TSMC stock price'}
+INFO - {'role': 'user', 'content': 'Observation: A screenshot and some texts. (Omitted in context.)'}
+INFO - {'role': 'assistant', 'content': 'Thought: The image shows the current TSMC stock price is 189.67 USD. The analysts\' rating is "Strong Buy". The 1-year price target is 221. Now I need to find out the news about TSMC to decide if I should buy it.\nAction: Click [9]'}
+INFO - {'role': 'user', 'content': [{'type': 'text', 'text': 'Observation: please analyze the attached screenshot and give the Thought and Action. I\'ve provided the tag name of each element and the text it contains (if text exists). Note that <textarea> or <input> may be textbox, but not exactly. Please focus more on the screenshot and then refer to the textual information.\n[1]: <input> "在這裡輸入您的搜尋文字 - 系統會依您輸入的文字同步顯示搜尋建議";\t[5]: "全部";\t[6]: "搜尋";\t[7]: "Copilot";\t[8]: "新聞";\t[9]: "圖片";\t[10]: "影片";\t[11]: "更多";\t[12]: "熱門報導", "搜尋有關「熱門報導」的新聞";\t[13]: "全球", "搜尋有關「全球」的新聞";\t[14]: "娛樂", "搜尋有關「娛樂」的新聞";\t[15]: "商業", "搜尋有關「商業」的新聞";\t[16]: "運動", "搜尋有關「運動」的新聞";\t[17]: "科技", "搜尋有關「科技」的新聞";\t[18]: "日期";\t[19]: "最符合項目";\t[21]: "數位時代", "搜尋來自 數位時代 的新聞";\t[23]: "1 天", "1 天前";\t[24]: "危機入市！魏哲家砸逾1730萬買20張台積電：對公司營運深具信心";\t[25]: "公開資訊資訊關測站顯示，台積電董事長魏哲家今年4月透過集中市場買進20張自家股票，若以台積電4月收盤均價868元計，魏哲家約花新台幣1736萬元買進20張股票，以5月9日收盤價949元計，每股賺81元，20張賺162萬元。";\t[26]: "鉅亨網", "搜尋來自 鉅亨網 的新聞";\t[28]: "15 天", "2025/4/28";\t[29]: "台積電ADR－全球最大晶片代工製造商 US-TSM TAIWAN SEMICOND MNFCG CO";\t[30]: "10.51%-1.12%-19.27%-16.07%-17.37% 18.15% 71.60% 209.70% 本網站各類資訊報價由湯森路透股份有限公司台灣分公司提供，台股與外匯部分為 ...";\t[31]: "TVBS新聞網", "搜尋來自 TVBS新聞網 的新聞";\t[33]: "28 天", "2025/4/14";\t[34]: "意見反應";'}, {'type': 'image_url', 'image_url': {'url': 'data:image/png;base64,{b64_img}'}}]}
+INFO - {'role': 'assistant', 'content': 'Thought: I see news about TSMC. The first news title "Crisis Investment! Wei Zhejia spent over 17.3 million to buy 20 TSMC shares: Full of confidence in the company\'s operations" is a positive signal. This article is one day old. According to the analysts\' rating, the stock is a strong buy. The 1-year price target is 221. Based on the information, I should buy it now.\nAction: ANSWER; TSMC current stock price is 189.67 USD. Analysts\' rating is "Strong Buy". TSMC\'s chairman bought TSMC shares recently, which indicates confidence in the company. The 1-year price target is 221. Based on this information, it is recommended to buy it now.\n'}
+INFO - Total cost: 0.12151

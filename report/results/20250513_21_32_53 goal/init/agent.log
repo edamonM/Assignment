@@ -1,0 +1,14 @@
+INFO - Load pretrained SentenceTransformer: BAAI/bge-m3
+INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+INFO - Starting to process data/Apr 2025 (C)_final_wmn.pdf...
+INFO - Converting data/Apr 2025 (C)_final_wmn.pdf to Markdown...
+INFO - Enhanced Markdown already exists at output\Apr 2025 (C)_final_wmn_enhanced.md, skipping generation.
+INFO - Indexing original PDF for RAG...
+WARNING - CropBox missing from /Page, defaulting to MediaBox
+WARNING - CropBox missing from /Page, defaulting to MediaBox
+INFO - Indexing enhanced Markdown for RAG...
+INFO - Processing completed:
+INFO - - Original PDF: data/Apr 2025 (C)_final_wmn.pdf
+INFO - - Markdown file: output\Apr 2025 (C)_final_wmn.md
+INFO - - Number of processed images: 1
+INFO - - Enhanced Markdown: output\Apr 2025 (C)_final_wmn_enhanced.md
