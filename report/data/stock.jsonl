@@ -1,0 +1,3 @@
+{"web_name": "yahoo", "id": "yahoo stock--2", "ques": "Go to the search section of yahoo, next search 1  today's taiwan news , finally give me an content about news abstract.", "web": "https://www.bing.com/"}
+{"web_name": "yahoo", "id": "yahoo stock--3", "ques": "Go to the search section of yahoo, give me tsmc now stock price , and tell me shoud I buy it now \n. you can use task2 new, becsuae news is influnce the stock price.", "web": "https://www.bing.com/"}
+{"web_name": "yahoo", "id": "yahoo stock--1", "ques": "Go to the search section of bing, give me an recent mew about tsmc.", "web": "https://www.bing.com/"}
