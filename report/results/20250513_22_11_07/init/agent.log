@@ -1,0 +1,10 @@
+INFO - Load pretrained SentenceTransformer: BAAI/bge-m3
+INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+INFO - Starting to process data/stock.pdf...
+INFO - Converting data/stock.pdf to Markdown...
+INFO - Indexing original PDF for RAG...
+INFO - Processing completed:
+INFO - - Original PDF: data/stock.pdf
+INFO - - Markdown file: output\stock.md
+INFO - - Number of processed images: 0
+INFO - - Enhanced Markdown: None

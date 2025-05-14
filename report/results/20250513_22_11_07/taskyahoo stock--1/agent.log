@@ -1,0 +1,153 @@
+INFO - ########## TASKyahoo stock--1 ##########
+INFO - Load pretrained SentenceTransformer: BAAI/bge-m3
+INFO - Searching for: Go to the search section of bing, give me an recent mew about tsmc.
+INFO - Searching results:
+ section: N/A
+content: ![Unable to describe image](images/Apr-2025-(C)_final_wmn.pdf-0-0.png)
+source: Apr 2025 (C)_final_wmn_enhanced.md
+
+section: N/A
+content: ![Unable to describe image](images/Apr-2025-(C)_final_wmn.pdf-0-0.png)
+source: Apr 2025 (C)_final_wmn_enhanced.md
+
+section: N/A
+content: ![Unable to describe image](images/Apr-2025-(C)_final_wmn.pdf-0-0.png)
+source: Apr 2025 (C)_final_wmn_enhanced.md
+
+section: N/A
+content: ![Unable to describe image](images/Apr-2025-(C)_final_wmn.pdf-0-0.png)
+source: Apr 2025 (C)_final_wmn_enhanced.md
+
+section: N/A
+content: ![Unable to describe image](images/Apr-2025-(C)_final_wmn.pdf-0-0.png)
+source: Apr 2025 (C)_final_wmn_enhanced.md
+
+section: N/A
+content: ![Unable to describe image](images/Apr-2025-(C)_final_wmn.pdf-0-0.png)
+source: Apr 2025 (C)_final_wmn_enhanced.md
+
+section: N/A
+content: ![Unable to describe image](images/Apr-2025-(C)_final_wmn.pdf-0-0.png)
+source: Apr 2025 (C)_final_wmn_enhanced.md
+
+section: N/A
+content: ![Unable to describe image](images/Apr-2025-(C)_final_wmn.pdf-0-0.png)
+source: Apr 2025 (C)_final_wmn_enhanced.md
+
+section: N/A
+content: ![Unable to describe image](images/Apr-2025-(C)_final_wmn.pdf-0-0.png)
+source: Apr 2025 (C)_final_wmn_enhanced.md
+
+section: N/A
+content: ![Unable to describe image](images/Apr-2025-(C)_final_wmn.pdf-0-0.png)
+source: Apr 2025 (C)_final_wmn_enhanced.md
+
+section: N/A
+content: ![Unable to describe image](images/Apr-2025-(C)_final_wmn.pdf-0-0.png)
+source: Apr 2025 (C)_final_wmn_enhanced.md
+
+section: N/A
+content: ![Unable to describe image](images/Apr-2025-(C)_final_wmn.pdf-0-0.png)
+source: Apr 2025 (C)_final_wmn_enhanced.md
+
+section: N/A
+content: ![Unable to describe image](images/Apr-2025-(C)_final_wmn.pdf-0-0.png)
+source: Apr 2025 (C)_final_wmn_enhanced.md
+
+section: N/A
+content: ![Unable to describe image](images/Apr-2025-(C)_final_wmn.pdf-0-0.png)
+source: Apr 2025 (C)_final_wmn_enhanced.md
+
+section: N/A
+content: ![Unable to describe image](images/Apr-2025-(C)_final_wmn.pdf-0-0.png)
+source: Apr 2025 (C)_final_wmn_enhanced.md
+
+section: N/A
+content: ![Unable to describe image](images/Apr-2025-(C)_final_wmn.pdf-0-0.png)
+source: Apr 2025 (C)_final_wmn_enhanced.md
+
+section: N/A
+content: ![Unable to describe image](images/Apr-2025-(C)_final_wmn.pdf-0-0.png)
+source: Apr 2025 (C)_final_wmn_enhanced.md
+
+section: N/A
+content: ![Unable to describe image](images/Apr-2025-(C)_final_wmn.pdf-0-0.png)
+source: Apr 2025 (C)_final_wmn_enhanced.md
+
+section: N/A
+content: ![Unable to describe image](images/Apr-2025-(C)_final_wmn.pdf-0-0.png)
+source: Apr 2025 (C)_final_wmn_enhanced.md
+
+section: N/A
+content: ![Unable to describe image](images/Apr-2025-(C)_final_wmn.pdf-0-0.png)
+source: Apr 2025 (C)_final_wmn_enhanced.md
+
+
+INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+INFO - manual:
+ Task Goal: Go to the search section of bing, give me an recent mew about tsmc.
+Steps:
+1. Open your web browser and navigate to www.bing.com.
+2. Type 'TSMC recent news' into the search bar and press Enter.
+3. Analyze the search results, focusing on news articles from reputable sources such as Reuters, Bloomberg, or the Wall Street Journal.
+4. Summarize the key information from the most recent news articles about TSMC.
+
+
+INFO - Iter: 0
+INFO - Calling gpt4v API...
+INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+INFO - Prompt Tokens: 3274; Completion Tokens: 63
+INFO - Accumulate Prompt Tokens: 3274; Accumulate Completion Tokens: 63
+INFO - API call complete...
+INFO - Num of interactive elements: 36
+INFO - Iter: 1
+INFO - Calling gpt4v API...
+INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+INFO - Prompt Tokens: 3254; Completion Tokens: 41
+INFO - Accumulate Prompt Tokens: 6528; Accumulate Completion Tokens: 104
+INFO - API call complete...
+INFO - Num of interactive elements: 22
+INFO - Iter: 2
+INFO - Calling gpt4v API...
+INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+INFO - Prompt Tokens: 3233; Completion Tokens: 38
+INFO - Accumulate Prompt Tokens: 9761; Accumulate Completion Tokens: 142
+INFO - API call complete...
+INFO - Num of interactive elements: 16
+INFO - Iter: 3
+INFO - Calling gpt4v API...
+INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+INFO - Prompt Tokens: 3699; Completion Tokens: 58
+INFO - Accumulate Prompt Tokens: 13460; Accumulate Completion Tokens: 200
+INFO - API call complete...
+INFO - Num of interactive elements: 36
+INFO - Iter: 4
+INFO - Calling gpt4v API...
+INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+INFO - Prompt Tokens: 3791; Completion Tokens: 134
+INFO - Accumulate Prompt Tokens: 17251; Accumulate Completion Tokens: 334
+INFO - API call complete...
+INFO - Num of interactive elements: 37
+INFO - Iter: 5
+INFO - Calling gpt4v API...
+INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+INFO - Prompt Tokens: 3822; Completion Tokens: 122
+INFO - Accumulate Prompt Tokens: 21073; Accumulate Completion Tokens: 456
+INFO - API call complete...
+INFO - Num of interactive elements: 37
+INFO - The most recent news about TSMC: "Analyst Says ‘Nobody’ Can Catch Up With NVIDIA (NVDA)" and "Numbers Don't Lie: Samsung Foundry's Gap with TSMC is Huge".
+INFO - finish!!
+INFO - {'role': 'system', 'content': 'Imagine you are a robot browsing the web, just like humans. Now you need to complete a task. In each iteration, you will receive an Observation that includes a screenshot of a webpage and some texts. This screenshot will feature Numerical Labels placed in the TOP LEFT corner of each Web Element.\nCarefully analyze the visual information to identify the Numerical Label corresponding to the Web Element that requires interaction, then follow the guidelines and choose one of the following actions:\n1. Click a Web Element.\n2. Delete existing content in a textbox and then type content. \n3. Scroll up or down. Multiple scrolls are allowed to browse the webpage. Pay attention!! The default scroll is the whole window. If the scroll widget is located in a certain area of the webpage, then you have to specify a Web Element in that area. I would hover the mouse there and then scroll.\n4. Wait. Typically used to wait for unfinished webpage processes, with a duration of 5 seconds.\n5. Go back, returning to the previous webpage.\n6. Google, directly jump to the Google search page. When you can\'t find information in some websites, try starting over with Google.\n7. Answer. This action should only be chosen when all questions in the task have been solved.\n\nCorrespondingly, Action should STRICTLY follow the format:\n- Click [Numerical_Label]\n- Type [Numerical_Label]; [Content]\n- Scroll [Numerical_Label or WINDOW]; [up or down]\n- Wait\n- GoBack\n- Google\n- ANSWER; [content]\n\nKey Guidelines You MUST follow:\n* Action guidelines *\n1) To input text, NO need to click textbox first, directly type content. After typing, the system automatically hits `ENTER` key. Sometimes you should click the search button to apply search filters. Try to use simple language when searching.  \n2) You must Distinguish between textbox and search button, don\'t type content into the button! If no textbox is found, you may need to click the search button first before the textbox is displayed. \n3) Execute only one action per iteration. \n4) STRICTLY Avoid repeating the same action if the webpage remains unchanged. You may have selected the wrong web element or numerical label. Continuous use of the Wait is also NOT allowed.\n5) When a complex Task involves multiple questions or steps, select "ANSWER" only at the very end, after addressing all of these questions (steps). Flexibly combine your own abilities with the information in the web page. Double check the formatting requirements in the task when ANSWER. \n* Web Browsing Guidelines *\n1) Don\'t interact with useless web elements like Login, Sign-in, donation that appear in Webpages. Pay attention to Key Web Elements like search textbox and menu.\n2) Vsit video websites like YouTube is allowed BUT you can\'t play videos. Clicking to download PDF is allowed and will be analyzed by the Assistant API.\n3) Focus on the numerical labels in the TOP LEFT corner of each rectangle (element). Ensure you don\'t mix them up with other numbers (e.g. Calendar) on the page.\n4) Focus on the date in task, you must look for results that match the date. It may be necessary to find the correct year, month and day at calendar.\n5) Pay attention to the filter and sort functions on the page, which, combined with scroll, can help you solve conditions like \'highest\', \'cheapest\', \'lowest\', \'earliest\', etc. Try your best to find the answer that best fits the task.\n\nYour reply should strictly follow the format:\nThought: {Your brief thoughts (briefly summarize the info that will help ANSWER)}\nAction: {One Action format you choose}\n\nThen the User will provide:\nObservation: {A labeled screenshot Given by User}'}
+INFO - {'role': 'user', 'content': "Today is 2025-05-13. Now given a task: Go to the search section of bing, give me an recent mew about tsmc.  Please interact with https://www.bing.com/ and get the answer. \nBefore taking action, carefully analyze the contents in [Manuals and QA pairs] below.\nDetermine whether [Manuals and QA pairs] contain relevant procedures, constraints, or guidelines that should be followed for this task.\nIf so, follow their guidance accordingly. If not, proceed with a logical and complete approach.\n[Key Guidelines You MUST follow]\nBefore taking any action, analyze the provided [Manuals and QA pairs] as a whole to determine if they contain useful procedures, constraints, or guidelines relevant to this task.\n - If [Manuals and QA pairs] provide comprehensive guidance, strictly follow their instructions in an ordered and structured manner.\n - If [Manuals and QA pairs] contain partial but useful information, integrate it into your approach while filling in the gaps logically.\n - If [Manuals and QA pairs] are entirely irrelevant or insufficient, proceed with the best available method while ensuring completeness.\n\n[Manuals and QA pairs]\nTask Goal: Go to the search section of bing, give me an recent mew about tsmc.\nSteps:\n1. Open your web browser and navigate to www.bing.com.\n2. Type 'TSMC recent news' into the search bar and press Enter.\n3. Analyze the search results, focusing on news articles from reputable sources such as Reuters, Bloomberg, or the Wall Street Journal.\n4. Summarize the key information from the most recent news articles about TSMC.Observation: A screenshot and some texts. (Omitted in context.)"}
+INFO - {'role': 'assistant', 'content': 'Thought: The task requires me to search for recent news about TSMC on Bing. I need to type the query "TSMC recent news" into the search bar [18] and then click the search button [17] or hit enter.\nAction: Type [18]; TSMC recent news'}
+INFO - {'role': 'user', 'content': 'Observation: A screenshot and some texts. (Omitted in context.)'}
+INFO - {'role': 'assistant', 'content': 'Thought: I have already typed "TSMC recent news" in the search bar. Now I need to click the search button [8] to get the search results.\nAction: Click [8]'}
+INFO - {'role': 'user', 'content': 'Observation: A screenshot and some texts. (Omitted in context.)'}
+INFO - {'role': 'assistant', 'content': 'Thought: I have already typed the query. I should now click on the "News" tab [9] to see the news results about TSMC.\nAction: Click [9]'}
+INFO - {'role': 'user', 'content': 'Observation: A screenshot and some texts. (Omitted in context.)'}
+INFO - {'role': 'assistant', 'content': 'Thought: I have already searched for "TSMC recent news" and am now on the "News" tab. The task asks for the most recent news. I can sort the news by date using the "日期" [19] dropdown.\nAction: Click [19]'}
+INFO - {'role': 'user', 'content': 'Observation: A screenshot and some texts. (Omitted in context.)'}
+INFO - {'role': 'assistant', 'content': 'Thought: I have already searched for "TSMC recent news" and am now on the "News" tab. The task asks for the most recent news. I need to sort the news by date, and the options are "過去 1 小時" [19], "過去 24 小時" [20], "過去 7 天" [21], "過去 30 天" [22]. Since today is 2025-05-13, I will choose "過去 24 小時" [20] to find the most recent news.\nAction: Click [20]'}
+INFO - {'role': 'user', 'content': [{'type': 'text', 'text': 'Observation: please analyze the attached screenshot and give the Thought and Action. I\'ve provided the tag name of each element and the text it contains (if text exists). Note that <textarea> or <input> may be textbox, but not exactly. Please focus more on the screenshot and then refer to the textual information.\n[1]: <input> "在這裡輸入您的搜尋文字 - 系統會依您輸入的文字同步顯示搜尋建議";\t[5]: "全部";\t[6]: "搜尋";\t[7]: "Copilot";\t[8]: "新聞";\t[9]: "圖片";\t[10]: "影片";\t[11]: "更多";\t[12]: "熱門報導", "搜尋有關「熱門報導」的新聞";\t[13]: "全球", "搜尋有關「全球」的新聞";\t[14]: "娛樂", "搜尋有關「娛樂」的新聞";\t[15]: "商業", "搜尋有關「商業」的新聞";\t[16]: "運動", "搜尋有關「運動」的新聞";\t[17]: "科技", "搜尋有關「科技」的新聞";\t[18]: "過去 24 小時";\t[19]: "最符合項目";\t[23]: "20 小時", "20 小時前";\t[25]: "on MSN";\t[26]: "Numbers Don\'t Lie: Samsung Foundry\'s Gap with TSMC is Huge";\t[27]: "Samsung-TSMC gap is huge. According to the latest figures, the gap between the revenue of Samsung and TSMC is standing at $7 ...";\t[31]: "1 小時", "1 小時前";\t[33]: "on MSN";\t[34]: "Analyst Says ‘Nobody’ Can Catch Up With NVIDIA (NVDA)";\t[35]: "We recently published a list of 10 Buzzing Stocks After Latest Earnings Season. In this article, we are going to take a look ...";\t[36]: "意見反應";'}, {'type': 'image_url', 'image_url': {'url': 'data:image/png;base64,{b64_img}'}}]}
+INFO - {'role': 'assistant', 'content': 'Thought: The most recent news about TSMC in the past 24 hours is "Analyst Says ‘Nobody’ Can Catch Up With NVIDIA (NVDA)" [34] which was published 1 hour ago and "Numbers Don\'t Lie: Samsung Foundry\'s Gap with TSMC is Huge" [26] which was published 20 hours ago.\nAction: ANSWER; The most recent news about TSMC: "Analyst Says ‘Nobody’ Can Catch Up With NVIDIA (NVDA)" and "Numbers Don\'t Lie: Samsung Foundry\'s Gap with TSMC is Huge".'}
+INFO - Total cost: 0.22441
